@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/EVHDRNERF
 excerpt: ''
-date: 2010-10-01
+date: 2025-10-01
 venue: 'under review'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'

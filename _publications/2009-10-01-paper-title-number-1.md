@@ -1,7 +1,7 @@
 ---
 title: "Fusion of Thermal and RGB Images for Traffic Object Detection"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: ''
 date: 2025

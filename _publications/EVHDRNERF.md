@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Events Data Guided Deblurring and HDR Novel View Synthesis"
 collection: publications
 category: manuscripts
 permalink: /publication/EVHDRNERF
-excerpt: 'Events Data Guided Deblurring and HDR Novel View Synthesis'
+excerpt: ''
 date: 2010-10-01
 venue: 'under review'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'

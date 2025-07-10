@@ -3,10 +3,10 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-You can download my most up-to-date CV by clicking the link below.
+<iframe src="/files/paper3.pdf" width="100%" height="800px" frameborder="0" scrolling="no"></iframe>
 
-[Download CV (PDF)](/files/paper3.pdf)
+<br>
+
+<p>If the embedded PDF does not load, you can <a href="/files/paper3.pdf">download it directly here</a>.</p>

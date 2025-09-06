@@ -5,6 +5,6 @@ category: manuscripts
 permalink: /publication/RLTrafficSignals
 excerpt: ''
 date: 2025-10-01
-venue: 'Under Submission'
+venue: 'Under review for IEEE Access'
 authors: "Anirud Nandakumar, Prof. Lelitha Devi Vanajakshi, Dr. Chayan Banerjee"
 ---

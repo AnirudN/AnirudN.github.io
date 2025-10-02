@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-<iframe src="/files/Anirud_CV_July_2025.pdf" width="100%" height="800px" frameborder="0" scrolling="no"></iframe>
+<iframe src="/files/Anirud_CV_OCT_2025.pdf" width="100%" height="800px" frameborder="0" scrolling="no"></iframe>
 
 <br>
 

@@ -1,5 +1,5 @@
 ---
-title: "Events Data Guided Deblurring and HDR Novel View Synthesis"
+title: "Blur to Brilliance: Neuromorphic Data Guided Deblurring and HDR Novel View Synthesis"
 collection: publications
 category: manuscripts
 permalink: /publication/EVHDRNERF

@@ -1,0 +1,6 @@
+@article{nandakumar2025rl,
+  title={Reinforcement Learning Based Traffic Signal Design to Minimize Queue Lengths},
+  author={Nandakumar, Anirud and Vanajakshi, Lelitha Devi and Banerjee, Chayan},
+  journal={IEEE Transactions on Intelligent Transportation Systems (under review)},
+  year={2025}
+}

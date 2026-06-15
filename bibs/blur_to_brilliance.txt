@@ -1,0 +1,6 @@
+@article{khaidem2025blur,
+  title={Blur to Brilliance: Neuromorphic Data Guided Deblurring and HDR Novel View Synthesis},
+  author={Khaidem, Sally and Nandakumar, Anirud and Sharma, Mansi and Mitra, Kaushik},
+  journal={IEEE Access},
+  year={2025}
+}

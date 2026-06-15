@@ -1,0 +1,6 @@
+@inproceedings{nandakumar2025fusion,
+  title={Fusion of Thermal and RGB Images for Traffic Object Detection},
+  author={Nandakumar, Anirud and Vanajakshi, Lelitha Devi and Lakshminarayanan, Chandrashekar},
+  booktitle={3rd International IEEE Applied Sensing Conference (APSCON)},
+  year={2025}
+}
